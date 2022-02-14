@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @gmishka96 ✨
+- 👀 I’m interested in firmware and software technologies (C, C#, Android) ✨
+- 🌱 I’m currently learning WPF and FreeRTOS ✨
